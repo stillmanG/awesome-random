@@ -70,6 +70,8 @@ A collection of powerful books that can help at different points in life
 
 - [Esoteric Programming Languages](https://en.wikipedia.org/wiki/Esoteric_programming_language) (Good for some laughes)
 
+- [Racket](https://racket-lang.org/) - Racket is a general-purpose, multi-paradigm programming language based on the Scheme dialect of Lisp.
+
 - [Swift](https://developer.apple.com/swift/)
 
 - [NodeJS](https://nodejs.org/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
